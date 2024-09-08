@@ -108,13 +108,32 @@ Contribution
 Contributions are welcome! Feel free to open issues and submit pull requests.
 ```
 
-## License
-This project is licensed under the MIT License.
-
 ### Explanation
 
 - **Installation without Docker**: This section explains how to manually install the project, including setting up the virtual environment, installing dependencies, and configuring the database.
 - **Running with Docker**: This part explains how to use Docker to run the project, leveraging `docker-compose` to manage containers, and setting up the database configuration.
 - **Tests**: Provides instructions on how to run the tests both locally and inside the Docker container.
 
-Feel free to adjust or expand it as needed!
+## 🦸&nbsp; About Author
+Hello, I'm Hugo Almeida, I'm a fullstack architect and mobile++. 
+I am passionate about technology, programming, processes and planning. 
+I united all these passions in one profession. 
+
+If you have questions, suggestions and criticism are very welcome. Follow my contacts.
+If you like, _don't forget to send stars for this project._
+
+👤 **Hugo Almeida (Hugão Dev)**
+
+* Twitter: [@hugaodev](https://twitter.com/hugaodev)
+* Github: [@hugoalmeidahh](https://github.com/hugoalmeidahh)
+* LinkedIn: [@hugoalmeidahh](https://linkedin.com/in/hugoalmeidahh)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ for you!_
+
+## License
+This project is licensed under the MIT License.
